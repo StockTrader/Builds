@@ -1,1 +1,1 @@
-create table xyz with fields a,b,c
+create table xyz with fields a,b,password
